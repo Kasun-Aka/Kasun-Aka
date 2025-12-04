@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="155" src="https://github-readme-stats-fast.vercel.app/api?username=YourGithubUser&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="155" src="https://github-readme-stats-fast.vercel.app/api?username=Kasun-Aka&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="155" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kasun-Aka&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
