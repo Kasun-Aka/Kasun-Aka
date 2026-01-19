@@ -48,7 +48,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://kasun-akalanka-web.vercel.app"><img src="https://kasun-akalanka-web.vercel.app/assets/ghostdevKA.png"; height=50rem; width = auto/></a>
+  <a href="https://kasun-akalanka-web.vercel.app"><img src="https://kasun-akalanka-web.vercel.app/assets/ghostdevKA.webp"; height=50rem; width = auto/></a>
   <a href="https://www.linkedin.com/in/kasun-akalanka03"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:upekkasun2003@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
