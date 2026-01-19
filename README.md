@@ -2,23 +2,39 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?animation=fadeIn&type=waving&color=gradient&customColorList=6&height=100&section=header"/>
 </p>
-<h1 align="center">Hi 👋, I'm Kasun Akalanka</h1>
+<h1 align="center">Hi 👋, I'm Upek Kasun Akalanka</h1>
 <h3 align="center">BSc IT Undergraduate | Aspiring Software Engineer</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 BSc IT Undergraduate at SLIIT  
+- 🎓 BSc IT Undergraduate at SLIIT specializing Software Engineering 
 - 💻 Interested in Software Engineering, Backend Development & System Design  
-- 🌱 Currently improving skills in **Java, SQL, Web Development, OOP**  
+- ⚙️ Experienced with **Java, Spring Boot, SQL, JavaScript** through academic and personal projects  
+- 🌱 Currently learning **React, TypeScript, Next.js, and NestJS**
+- 🧠 Passionate about problem-solving and building **scalable, real-world software solutions**  
 - 🔍 Open to **internships and professional opportunities**  
-- 📫 Reach me: **https://kasun-akalanka-web.vercel.app**
+- 📫 Reach me: <a href=mailto:upekkasun2003@gmail.com>**upekkasun2003@gmail.com**</a>
 
 ---
 
 ## 🛠️ Tech Stack
+### Languages
+- Java, JavaScript, Python
+
+### Backend & Frameworks
+- Spring Boot, NestJS
+
+### Frontend
+- HTML5, CSS3, React, Next.js
+
+### Databases
+- MS SQL Server, MongoDB, Supabase
+
+### Tools & Platforms
+- Git & GitHub, Postman, Linux (Basics), Canva
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,py,github,linux,postman,spring,mongodb" /> 
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,spring,mysql,mongodb,git,github,python,linux,postman" /> 
 </p>
 
 ---
@@ -39,10 +55,29 @@
 ---
 
 ## 📂 Featured Projects
-- 🔸 **Health Insurance Management System** – Policy management module  
-- 🔸 **Web Applications & UI Designs** – HTML, CSS, JS  
-- 🔸 **Java Projects** – OOP, problem-solving, small utilities
-- 🔸 **PacmanV2** - Fanmade game using Scratch
+
+### 🏥 Health Insurance Management System
+- Full-stack web application built using **Java, Spring Boot, and MS SQL Server**
+- Implemented policy management, billing, user roles, reviews, and admin analytics
+- Designed RESTful APIs using a layered architecture (Controller–Service–Repository)
+
+### 💍 Wedding Planner Web Application
+- Web-based system developed using **Java and Spring Boot**
+- Applied object-oriented principles and database integration
+- Focused on clean architecture and maintainable code
+
+### 🏏 T20 International Match Prediction System
+- Machine learning project developed using **Python**
+- Performed data preprocessing, feature engineering, and model training
+- Gained hands-on experience with ML workflows and evaluation
+
+### 🌐 Web Applications & UI Projects
+- Responsive websites built using **HTML, CSS, JavaScript, and Node.js**
+- Includes a personal portfolio and a small-scale business website
+
+### 🎮 PacmanV2 (Fan-made Game)
+- Built using **Scratch**
+- Strengthened logic-building and problem-solving skills through game mechanics
 
 ---
 
