@@ -54,33 +54,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 🏥 Health Insurance Management System
-- Full-stack web application built using **Java, Spring Boot, and MS SQL Server**
-- Implemented policy management, billing, user roles, reviews, and admin analytics
-- Designed RESTful APIs using a layered architecture (Controller–Service–Repository)
-
-### 💍 Wedding Planner Web Application
-- Web-based system developed using **Java and Spring Boot**
-- Applied object-oriented principles and database integration
-- Focused on clean architecture and maintainable code
-
-### 🏏 T20 International Match Prediction System
-- Machine learning project developed using **Python**
-- Performed data preprocessing, feature engineering, and model training
-- Gained hands-on experience with ML workflows and evaluation
-
-### 🌐 Web Applications & UI Projects
-- Responsive websites built using **HTML, CSS, JavaScript, and Node.js**
-- Includes a personal portfolio and a small-scale business website
-
-### 🎮 PacmanV2 (Fan-made Game)
-- Built using **Scratch**
-- Strengthened logic-building and problem-solving skills through game mechanics
-
----
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://kasun-akalanka-web.vercel.app"><img src="https://kasun-akalanka-web.vercel.app/assets/ghostdevKA.webp"; height=50rem; width = auto/></a>
